@@ -30,5 +30,5 @@ print([new_car, new_car])
 #garage = [toyota, toyota, toyota]
 #print(garage)
 
-#toyota()#вызываем как функцию
+toyota()#вызываем как функцию
 
